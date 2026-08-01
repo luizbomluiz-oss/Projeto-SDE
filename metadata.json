@@ -1,0 +1,10 @@
+{
+  "name": "People Watch Cam",
+  "description": "Real-time people detection, camera tracking, and line-crossing analytics with AI object filter support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
